@@ -58,10 +58,10 @@
 </p>
 -->
 
-# Made with :purple_heart: using components from [Readme components](https://github.com/Official-Dev-Vineet)
+# Made with :purple_heart: using components from [Readme components](https://github.com/surajahirzde)
 
 #### Github Followers 
-[![GitHub followers](https://img.shields.io/github/followers/Official-Dev-Vineet?logo=GitHub&style=for-the-badge)](https://github.com/Official-Dev-Vineet)
+[![GitHub followers](https://img.shields.io/github/followers/surajahirzde?logo=GitHub&style=for-the-badge)](https://github.com/surajahirzde)
 <!--
 #### **languages and tools:**
 <div align="center" >
@@ -80,9 +80,9 @@
 -->
 
 &nbsp;<div align="center">
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)]([https://www.linkedin.com/in/vineet-kumar-088167309](https://www.linkedin.com/in/suraj-yadav-79254b250/)
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)]([[https://www.linkedin.com/in/vineet-kumar-088167309](https://www.linkedin.com/in/suraj-yadav-79254b250/)])(https://www.linkedin.com/in/suraj-yadav-79254b250/)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:sy241527@gmail.com)
-  [![Visits](https://komarev.com/ghpvc/?username=Official-Dev-Vineet&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/surajahirzde)
+  [![Visits](https://komarev.com/ghpvc/?username=surajahirzde&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/surajahirzde)
 </div>
 
 
@@ -103,7 +103,7 @@ const aboutMe={
 ```
 ### My github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surajahirzde&show_icons=true&theme=gotham" alt="Official-Dev-Vineet" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surajahirzde&show_icons=true&theme=gotham" alt="surajahirzde" /></p>
 
 ### Contents: create your own readme template for your github account
   - [Categories](#categories)
