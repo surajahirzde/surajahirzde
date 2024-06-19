@@ -9,19 +9,9 @@
 
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=text&text=Im%20VineetSingh&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
+<img  src="https://readme-components.vercel.app/api?component=text&text=Im%20Suraj%20Yadav&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
 </a>
 </p>  
-
-<p align="left">
-<a href="https://github.com/Official-Dev-Vineet/">
-<img  src="https://readme-components.vercel.app/api?component=experience&company=Freshworks&role=software%20developer%20&location=Faridabad&fill=black">
-</a>
-<a href="https://github.com/Official-Dev-Vineet/">
-<img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=23207139&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
-</a>
-</p>
-
 ## Things I use on a daily basis
 
 <p align="center">  
@@ -47,22 +37,22 @@
 <!--
 
 <p align="left">
-<a href="https://github.com/Official-Dev-Vineet/">
+<a href="https://github.com/surajahirzde/">
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=98&design=candy&fill=ff69b4">
 </a>
-<a href="https://github.com/Official-Dev-Vineet/">
+<a href="https://github.com/surajahirzde/">
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=95&design=candy&fill=ff69b4">
 </a>
-<a href="https://github.com/Official-Dev-Vineet/">
+<a href="https://github.com/surajahirzde/">
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=97&design=candy&fill=ff69b4">
 </a>
-<a href="https://github.com/Official-Dev-Vineet/">
+<a href="https://github.com/surajahirzde/">
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=REACT&value=90&design=candy&fill=ff69b4">
 </a>
-<a href="https://github.com/Official-Dev-Vineet/">
+<a href="https://github.com/surajahirzde/">
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CPP&value=70&design=candy&fill=ff69b4">
 </a>
-<a href="https://github.com/Official-Dev-Vineet/">
+<a href="https://github.com/surajahirzde/">
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
 </a>
 </p>
