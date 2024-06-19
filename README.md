@@ -1,5 +1,5 @@
 ### Hey Visitors : 👋
-#### vinnet singh portfolio link 
+#### Suraj Yadav portfolio link 
 <a href="https://surajahirzde.github.io" target="_blank">Go To Suraj Yadav Portfolio</a>
 
 &nbsp;<div align="center">
@@ -80,27 +80,30 @@
 -->
 
 &nbsp;<div align="center">
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/vineet-kumar-088167309/)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:viratsinghkaharwar8923@gmail.com)
-  [![Visits](https://komarev.com/ghpvc/?username=Official-Dev-Vineet&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/Official-Dev-Vineet)
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)]([https://www.linkedin.com/in/vineet-kumar-088167309](https://www.linkedin.com/in/suraj-yadav-79254b250/)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:sy241527@gmail.com)
+  [![Visits](https://komarev.com/ghpvc/?username=Official-Dev-Vineet&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/surajahirzde)
 </div>
 
 
-##### - 🔭 I’m currently working on core php full-stack development.
+##### - 🔭 I’m currently working on front-end development.
 
 ### About me
 
 ```javascript
 const aboutMe={
-      age:23,
-      mailId:"viratsinghkaharwar8923@gmail.com",
-      pronouns:"Vineet",
+      age:21,
+      mailId:"sy241527@gmail.com",
+      pronouns:"Suraj Yadav",
+      study : "Bachelor in computer application",
+      passout : 2023,
+      designation : "Mern-stack developer",
       funFact:"Let us take you into a deeper experience, make a moment a lasting conveyable memory. Let us help build your tribe."
 }
 ```
 ### My github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Official-Dev-Vineet&show_icons=true&theme=gotham" alt="Official-Dev-Vineet" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surajahirzde&show_icons=true&theme=gotham" alt="Official-Dev-Vineet" /></p>
 
 ### Contents: create your own readme template for your github account
   - [Categories](#categories)
